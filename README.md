@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 مرحباً، أنا [اسمك]
 
-<!--
-**matrawybarte-lgtm/matrawybarte-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **مصمم ومحتوى كاتب** | شغوف بتحويل الأفكار لتصاميم ونصوص واضحة ومؤثرة
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💼 بماذا أساعدك؟
+- تصميم جرافيك (شعارات، منشورات سوشال ميديا، عروض تقديمية)
+- كتابة محتوى (مقالات، أوصاف منتجات، محتوى تسويقي)
+- توثيق مشاريع (README احترافي، أدلة استخدام)
+
+#### 🛠️ أدوات أعمل عليها
+Canva · Google Workspace · Figma
+mahmoud khalaf
+#### 📫 تواصل معي
+- Email: [matrawybarte@gmail.com]
+- Portfolio: [https://github.com/matrawybarte-lgtm]
+
+---
+⭐ متاح حالياً لمشاريع فريلانس صغيرة
